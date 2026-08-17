@@ -161,12 +161,9 @@ These intents analyze SMS messages, email transcripts, and chat messages for act
 
 These intents provide educational responses about:
 
-* Universal cyber-scam red flags
-* Phishing indicators
-* Verification procedures
-* Suspicious links
-* Common manipulation techniques
-* Safe digital practices
+* Comprehensive awareness guide detailing the 5 universal scam red flags (Artificial Urgency, Forced Isolation, Irregular Payments, Credential Requests, and Unrealistic Gains).
+* Outlines major localized fraud vectors in India (Digital Arrest, UPI collect traps, electricity shutoff threats, KYC deactivation, predatory loan apps, and EPFO refund phishing).
+* Covers top global cybercrime threats (Telegram review/task traps, Pig Butchering crypto schemes, AI voice cloning, delivery smishing, and CEO business email compromise).
 
 ---
 
