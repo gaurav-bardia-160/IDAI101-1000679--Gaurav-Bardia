@@ -20,6 +20,10 @@
 ## 🔗 Live Chatbot Links
 
 * **Live Interactive Telegram Bot:** [Open Telegram Bot](https://web.telegram.org/a/#8894929465)
+
+## 🔗 Model Demo Video
+* **Google Drive videolink:** [Open Google Drive](https://drive.google.com/drive/folders/1uYh_heDqxb5qFXlBqyMm8Rx8nRjDnors)
+
 ---
 
 # 📌 1. Project Overview
