@@ -550,6 +550,16 @@ Udgam School For Children
 
 ---
 
+## 📸 Application Screenshots
+
+<img width="1403" height="1080" alt="{01A80CEE-DCED-4DE7-84AC-01FC7E98ED98}" src="https://github.com/user-attachments/assets/7759c68e-edb8-4322-af1a-27c6ad8e3f83" />
+
+<img width="1397" height="1080" alt="{51D59FA1-9013-431F-ABC9-BC5439A881CE}" src="https://github.com/user-attachments/assets/e5a7fe85-5e96-4b28-a65e-b20aaa031c43" />
+
+<img width="1398" height="1080" alt="{0033C3E5-D60F-4C54-A352-1A9951A56F10}" src="https://github.com/user-attachments/assets/19372359-1218-41fd-9779-46260784e56d" />
+
+---
+
 ## 🛡️ ScamShield AI
 
 **An AI-powered conversational assistant for identifying, understanding, and responding to digital scam threats.**
