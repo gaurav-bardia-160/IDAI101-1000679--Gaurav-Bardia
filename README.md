@@ -1,3 +1,5 @@
+# 🛡️ ScamShield AI: Fraud & Scam Detection Assistant
+
 [![Platform](https://img.shields.io/badge/Platform-Google%20Dialogflow%20ES-orange.svg)](https://dialogflow.cloud.google.com/)
 [![Integration](https://img.shields.io/badge/Integration-Telegram%20Bot%20API-blue.svg)](https://core.telegram.org/bots)
 [![Python Version](https://img.shields.io/badge/Python-3.13%2B-blue.svg)](https://www.python.org/)
