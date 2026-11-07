@@ -16,7 +16,7 @@
 
 ---
 
-# 📌 1. Project Overview
+# 1. Project Overview
 
 Digital financial ecosystems face an escalating volume of fraud vectors, including:
 
@@ -41,9 +41,9 @@ Its primary objectives are to:
 
 ---
 
-## 🎯 Target Demographics & User Needs
+## Target Demographics & User Needs
 
-### 💳 Digital Banking & UPI Users
+### Digital Banking & UPI Users
 
 ScamShield AI helps users identify:
 
@@ -53,7 +53,7 @@ ScamShield AI helps users identify:
 * Phishing links
 * Fake banking notifications
 
-### 💼 Job Seekers & Students
+### Job Seekers & Students
 
 The chatbot addresses:
 
@@ -63,7 +63,7 @@ The chatbot addresses:
 * Fake Telegram recruitment
 * Suspicious loan applications
 
-### 👴 Vulnerable & Elderly Users
+### Vulnerable & Elderly Users
 
 The system provides guidance for high-pressure scams such as:
 
@@ -74,7 +74,7 @@ The system provides guidance for high-pressure scams such as:
 
 ---
 
-# 🧠 2. Dialogflow Intents & Entities
+# 2. Dialogflow Intents & Entities
 
 ## 2.1 Intent Taxonomy
 
@@ -165,7 +165,7 @@ These intents provide educational responses about:
 
 The chatbot includes five context-gated recovery pipelines.
 
-### 💰 Financial Recovery
+### Financial Recovery
 
 `recv_fin`
 
@@ -175,7 +175,7 @@ Provides guidance for:
 * Financial incident response
 * Dispute-related actions
 
-### 👮 Legal & Police Recovery
+### Legal & Police Recovery
 
 `recv_pol`
 
@@ -185,7 +185,7 @@ Provides guidance related to:
 * National Cybercrime Helpline `1930`
 * Cybercrime portal registration
 
-### 🪪 Identity & Account Recovery
+### Identity & Account Recovery
 
 `recv_id`
 
@@ -195,7 +195,7 @@ Provides guidance for:
 * Securing compromised accounts
 * Setting up two-factor authentication
 
-### 💻 Device & Malware Recovery
+### Device & Malware Recovery
 
 `recv_dev`
 
@@ -307,7 +307,7 @@ Responses are delivered through Telegram custom payloads with:
 
 ---
 
-# 🎛️ 4. Machine Learning Configuration
+# 4. Machine Learning Configuration
 
 The project uses a Dialogflow classification threshold of:
 
@@ -321,7 +321,7 @@ This threshold is configured to control intent-matching sensitivity and reduce u
 
 ---
 
-# 🛠️ 5. Deployment Instructions
+# 5. Deployment Instructions
 
 ## Prerequisites
 
@@ -416,7 +416,7 @@ Then:
 
 ---
 
-# 🧪 6. Testing & Optimization Results
+# 6. Testing & Optimization Results
 
 The chatbot was evaluated using multiple scenarios covering legitimate messages, active fraud, impersonation, social engineering, and recovery workflows.
 
@@ -442,7 +442,7 @@ Testing focused on:
 
 ---
 
-# 📂 7. Repository Structure
+# 7. Repository Structure
 
 ```text
 IDAI101-2605192--Gaurav-Gautam-Bardia/
@@ -474,9 +474,9 @@ IDAI101-2605192--Gaurav-Gautam-Bardia/
 
 ---
 
-# ⚖️ 8. Ethical AI & Privacy Standards
+# 8. Ethical AI & Privacy Standards
 
-## 🔐 Zero Credential Harvesting
+## Zero Credential Harvesting
 
 ScamShield AI is designed not to request, log, or store sensitive authentication credentials such as:
 
@@ -485,7 +485,7 @@ ScamShield AI is designed not to request, log, or store sensitive authentication
 * OTPs
 * Authentication codes
 
-## 🧘 Calm De-escalation Design
+## Calm De-escalation Design
 
 The chatbot aims to avoid unnecessarily alarmist responses.
 
@@ -517,7 +517,7 @@ Users should independently verify suspicious communications through appropriate 
 
 ---
 
-# 📊 10. Project Summary
+# 10. Project Summary
 
 | Component                    | Implementation       |
 | ---------------------------- | -------------------- |
@@ -533,7 +533,7 @@ Users should independently verify suspicious communications through appropriate 
 
 ---
 
-# 👨‍💻 11. Student Information
+# 11. Student Information
 
 **Gaurav Gautam Bardia**
 Candidate Registration Number: `2605192`
@@ -544,7 +544,7 @@ Udgam School For Children
 
 ---
 
-# 📚 12. References
+# 12. References
 
 * [Google Dialogflow ES](https://dialogflow.cloud.google.com/)
 * [Telegram Bot API](https://core.telegram.org/bots)
@@ -552,7 +552,7 @@ Udgam School For Children
 
 ---
 
-## 📸 Application Screenshots
+## Application Screenshots
 
 <img width="1403" height="1080" alt="{01A80CEE-DCED-4DE7-84AC-01FC7E98ED98}" src="https://github.com/user-attachments/assets/7759c68e-edb8-4322-af1a-27c6ad8e3f83" />
 
@@ -562,6 +562,6 @@ Udgam School For Children
 
 ---
 
-## 🛡️ ScamShield AI
+##  ScamShield AI
 
 **An AI-powered conversational assistant for identifying, understanding, and responding to digital scam threats.**
