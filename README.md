@@ -5,18 +5,6 @@
 
 ---
 
-## 📋 Student Details
-
-| Field                             | Details                                                           |
-| --------------------------------- | ----------------------------------------------------------------- |
-| **Student Full Name**             | Gaurav Gautam Bardia                                              |
-| **Candidate Registration Number** | `1000679`                                                         |
-| **Course Name**                   | Artificial Intelligence: Real-World Applications and Implications |
-| **CRS Name**                      | Artificial Intelligence (CRS: AI)                                 |
-| **School Name**                   | Udgam School For Children                                         |
-
----
-
 ## 🔗 Live Chatbot Links
 
 * **Live Interactive Telegram Bot:** [Open Telegram Bot](https://web.telegram.org/a/#8894929465)
